@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently exploring **Machine Learning & Computer Vision**
 
-- 🔭 I’m currently working on **Lora Communication Based Project**
+- 🔭 I’m currently working on **Quality Inspection System Project**
 
 - ♪ Fun fact **I enjoy playing musical instrument ♫**
 
