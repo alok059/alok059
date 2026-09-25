@@ -8,9 +8,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently exploring **Machine Learning & Computer Vision**
-
-- 🔭 I’m currently working on **Quality Inspection System Project**
+- 🔭 I’m currently working on **Engineering client-side solutions for GuardWare DISCOVER, enabling secure scanning, data discovery, classification, and integration across enterprise endpoints**
 
 - ♪ Fun fact **I enjoy playing musical instrument ♫**
 
